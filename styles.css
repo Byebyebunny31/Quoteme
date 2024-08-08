@@ -8,7 +8,7 @@
 /* Basic styling */
 body {
     font-family: 'Glyph Box', sans-serif; /* Use Glyph Box font */
-    background: #fbe0e0; /* Light pink background for the body */
+    background: #fd6666; /* Light pink background for the body */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -108,7 +108,7 @@ footer {
 
 #credit {
     font-size: 12px; /* Small font size for credit */
-    color: #FB6964; /* Color of the credit text */
+    color: #ffffff; /* Color of the credit text */
     text-align: center;
     font-family: 'Glyph Box', sans-serif; /* Use Glyph Box font */
 }
