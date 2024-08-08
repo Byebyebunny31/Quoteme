@@ -8,7 +8,7 @@
 /* Basic styling */
 body {
     font-family: 'Glyph Box', sans-serif; /* Use Glyph Box font */
-    background: #fd6666; /* Light pink background for the body */
+    background: #342224; /* Light pink background for the body */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -35,7 +35,7 @@ body {
     font-size: 24px;
     font-weight: 400;
     line-height: 1.5;
-    color: #FB6964; /* Default pink color for the text */
+    color: #342224; /* Default pink color for the text */
     position: relative;
     padding: 0;
     font-family: 'Glyph Box', sans-serif; /* Use Glyph Box font */
@@ -44,7 +44,7 @@ body {
 
 #author {
     font-size: 16px; /* Reduced font size for the author */
-    color: #FB6964; /* Default pink color for the author */
+    color: #342224; /* Default pink color for the author */
     margin: 20px 0; /* Margin for spacing between author and buttons */
     text-align: right; /* Align author text to the right */
     font-family: 'Glyph Box', sans-serif; /* Use Glyph Box font */
@@ -60,7 +60,7 @@ body {
 
 /* New Quote button */
 #new-quote {
-    background-color: #FB6964; /* Pink background for the button */
+    background-color: #342224; /* Pink background for the button */
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -72,12 +72,12 @@ body {
 }
 
 #new-quote:hover {
-    background-color: #e55b5b; /* Slightly darker pink on hover */
+    background-color: #342224; /* Slightly darker pink on hover */
 }
 
 /* Tweet Quote button */
 #tweet-quote {
-    background-color: #FB6964; /* Pink background same as New Quote */
+    background-color: #342224; /* Pink background same as New Quote */
     color: #fff; /* White text */
     text-decoration: none;
     border: none;
@@ -98,7 +98,7 @@ body {
 
 /* Hover effect for Tweet Quote button */
 #tweet-quote:hover {
-    background-color: #e55b5b; /* Slightly darker pink on hover */
+    background-color: #342224; /* Slightly darker pink on hover */
 }
 
 /* Styling for the credit text */
